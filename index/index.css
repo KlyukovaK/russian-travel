@@ -1,0 +1,4 @@
+/*общее для всей страницы*/
+@import url(../blocks/page/page.css);
+@import url(../fonts/Inter/Inter.css);
+@import url(../vendor/normalize.css);
