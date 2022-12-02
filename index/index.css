@@ -1,4 +1,10 @@
 /*общее для всей страницы*/
 @import url(../blocks/page/page.css);
-@import url(../fonts/Inter/Inter.css);
+@import url(../fonts/Inter.css);
 @import url(../vendor/normalize.css);
+/*шапка*/
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__columns/header__columns.css);
+@import url(../blocks/header/__column-logo/header__column-logo.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__leng-link/header__leng-link.css);
