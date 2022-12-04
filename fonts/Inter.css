@@ -3,8 +3,10 @@
 	font-style: normal;
 	font-weight: 400;
 	src:
-		url(./Inter/Inter-Regular.woff2) format('woff2'),
-		url(./Inter/Inter-Regular.woff) format('woff');
+		url(./Inter/InterWeb/Inter-Regular.woff2) format('woff2'),
+		url(./Inter/InterWeb/Inter-Regular.woff) format('woff'),
+		url(./Inter/InterDesktop/Inter-Regular.otf) format('otf'),
+		url(./Inter/InterHintedforWindows/Desktop/Inter-Regular.ttf) format('ttf');
 }
 
 @font-face {
@@ -12,6 +14,8 @@
 	font-style: normal;
 	font-weight: 900;
 	src:
-		url(./Inter/Inter-Black.woff2) format('woff2'),
-		url(./Inter/Inter-Black.woff) format('woff');
+		url(./Inter/InterWeb/Inter-Black.woff2) format('woff2'),
+		url(./Inter/InterWeb/Inter-Black.woff) format('woff'),
+		url(./Inter/InterDesktop/Inter-Black.otf) format('otf'),
+		url(./Inter/InterHintedforWindows/Desktop/Inter-Black.ttf) format('ttf');
 }
