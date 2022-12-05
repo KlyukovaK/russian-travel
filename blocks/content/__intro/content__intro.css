@@ -1,3 +1,4 @@
 .content__intro {
-	margin: 92px calc(100vw*0.35) 92px calc(100vw*0.12);
+	padding: 0 calc(0.35*1005px) 0 calc(0.11*1005px);
+	margin: 92px auto;
 }
