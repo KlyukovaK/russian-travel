@@ -3,3 +3,16 @@
 	padding: 0;
 	width: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+	.lead__image {
+		margin: 56px auto 8px;
+	}
+}
+
+
+@media screen and (max-width: 320px) {
+	.lead__image {
+		margin: 40px auto 8px;
+	}
+}

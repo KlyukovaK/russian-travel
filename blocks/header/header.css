@@ -6,3 +6,21 @@
   align-items: center;
   justify-content: space-between;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+    width: 90.6%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    width: 93.8%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    width: 90%;
+  }
+}
