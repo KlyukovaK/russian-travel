@@ -3,5 +3,6 @@
   min-height: 42px;
   display: flex;
   width: 92.5%;
+  align-items: center;
   justify-content: space-between;
 }
