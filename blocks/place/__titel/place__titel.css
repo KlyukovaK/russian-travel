@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 768px) {
 	.place__titel {
-		max-width: 460px;
+		max-width: 340px;
 		font-size: 42px;
 		line-height: 1.10;
 	}
@@ -25,5 +25,6 @@
 		max-width: 288px;
 		font-size: 32px;
 		line-height: 1.09;
+		margin: 0 auto;
 	}
 }
