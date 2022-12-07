@@ -1,6 +1,6 @@
 .place__titel {
 	max-width: 460px;
-	min-height: 76px;
+	min-height: 35px;
 	width: 100%;
 	font-family: 'Inter';
 	font-style: normal;
@@ -10,4 +10,20 @@
 	padding: 0;
 	margin: 0;
 	align-self: end;
+}
+
+@media screen and (max-width: 768px) {
+	.place__titel {
+		max-width: 460px;
+		font-size: 42px;
+		line-height: 1.10;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.place__titel {
+		max-width: 288px;
+		font-size: 32px;
+		line-height: 1.09;
+	}
 }

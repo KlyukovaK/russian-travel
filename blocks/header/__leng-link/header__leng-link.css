@@ -12,6 +12,10 @@
   text-decoration: none;
 }
 
+.header__leng-link:first-of-type {
+  margin-left: 0;
+}
+
 @media screen and (max-width: 320px) {
   .header__leng-link {
     font-size: 18px;

@@ -1,11 +1,14 @@
 .lead__image {
 	margin: 64px auto 8px;
 	padding: 0;
+	max-width: 984px;
+	object-fit: cover;
 	width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
 	.lead__image {
+		max-width: 928px;
 		margin: 56px auto 8px;
 	}
 }
