@@ -6,7 +6,6 @@
 @media screen and (max-width: 1024px) {
 	.content__intro {
 		padding: 0 calc(0.28*1024px) 0 calc(0.046*1024px);
-		margin: 88px 0;
 	}
 }
 
