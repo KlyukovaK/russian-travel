@@ -12,6 +12,17 @@
 @font-face {
 	font-family: 'Inter';
 	font-style: normal;
+	font-weight: 700;
+	src:
+		url(./Inter/InterWeb/Inter-Bold.woff2) format('woff2'),
+		url(./Inter/InterWeb/Inter-Bold.woff) format('woff'),
+		url(./Inter/InterDesktop/Inter-Bold.otf) format('otf'),
+		url(./Inter/InterHintedforWindows/Desktop/Inter-Bold.ttf) format('ttf');
+}
+
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
 	font-weight: 900;
 	src:
 		url(./Inter/InterWeb/Inter-Black.woff2) format('woff2'),

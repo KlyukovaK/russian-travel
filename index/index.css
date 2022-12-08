@@ -1,6 +1,6 @@
 /*общее для всей страницы*/
 @import url(../blocks/page/page.css);
-@import url(../fonts/Inter.css);
+@import url(../fonts/inter.css);
 @import url(../vendor/normalize.css);
 /*шапка*/
 @import url(../blocks/header/header.css);
