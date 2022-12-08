@@ -3,10 +3,8 @@
 	font-style: normal;
 	font-weight: 400;
 	src:
-		url(./inter/InterWeb/Inter-Regular.woff2) format('woff2'),
-		url(./inter/InterWeb/Inter-Regular.woff) format('woff'),
-		url(./inter/InterDesktop/Inter-Regular.otf) format('otf'),
-		url(./inter/InterHintedforWindows/Desktop/Inter-Regular.ttf) format('ttf');
+		url(./inter/Inter-Regular.woff2) format('woff2'),
+		url(./inter/Inter-Regular.woff) format('woff');
 }
 
 @font-face {
@@ -14,10 +12,8 @@
 	font-style: normal;
 	font-weight: 700;
 	src:
-		url(./inter/InterWeb/Inter-Bold.woff2) format('woff2'),
-		url(./inter/InterWeb/Inter-Bold.woff) format('woff'),
-		url(./inter/InterDesktop/Inter-Bold.otf) format('otf'),
-		url(./inter/InterHintedforWindows/Desktop/Inter-Bold.ttf) format('ttf');
+	url(./inter/Inter-Bold.woff2) format('woff2'),
+	url(./inter/Inter-Bold.woff) format('woff');
 }
 
 @font-face {
@@ -25,8 +21,6 @@
 	font-style: normal;
 	font-weight: 900;
 	src:
-		url(./inter/InterWeb/Inter-Black.woff2) format('woff2'),
-		url(./inter/InterWeb/Inter-Black.woff) format('woff'),
-		url(./inter/InterDesktop/Inter-Black.otf) format('otf'),
-		url(./inter/InterHintedforWindows/Desktop/Inter-Black.ttf) format('ttf');
+	url(./inter/Inter-Black.woff2) format('woff2'),
+	url(./inter/Inter-Black.woff) format('woff');
 }
