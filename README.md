@@ -8,3 +8,5 @@
 * Flexbox
 * Grid
 * Методология БЭМ
+
+## Ссылка на проект: https://klyukovak.github.io/russian-travel/index.html
