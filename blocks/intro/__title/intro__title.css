@@ -14,7 +14,7 @@
 	.intro__title {
 		width: 93.8%;
 		max-width: 720px;
-		text-size-adjust: 100%;
+		font-size: 10vw;
 	}
 }
 

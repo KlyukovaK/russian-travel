@@ -10,6 +10,11 @@
   margin-left: 18px;
   color: white;
   text-decoration: none;
+  transition: .2s;
+}
+
+.header__leng-link:hover {
+  opacity: 0.8;
 }
 
 .header__leng-link:first-of-type {

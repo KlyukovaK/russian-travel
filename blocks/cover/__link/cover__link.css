@@ -1,13 +1,13 @@
 .cover__link {
 	width: 100%;
-	display: block;
+	display: flex;
+	flex-direction: column;
+	justify-self: center;
+	position: relative;
 	text-decoration: none;
-	background: rgba(42, 44, 47, 0.3);
+	background:url(../../../images/PC/cover-transsib.jpg)  center border-box;
+	background-size: cover;
 	padding: 20.69% 0 20.69% 0;
-}
-
-.cover__link:hover {
-	background-color: rgba(42, 44, 47, 0.8);
 }
 
 @media screen and (max-width: 1024px) {

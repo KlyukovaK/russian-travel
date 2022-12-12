@@ -7,7 +7,7 @@
 	.footer__links {
 		display: flex;
 		max-width: 186px;
-		height: calc(24px*5 + 32px*4);
+		gap: 32px;
 		width: 100%;
 		flex-direction: column;
 		justify-content: space-between;

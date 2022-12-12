@@ -1,0 +1,19 @@
+.cover__over-link {
+  position: absolute;
+  background: #2A2C2F;
+  opacity: 0.3;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transition: .2s;
+}
+
+.cover__over-link:hover::before {
+  content: '';
+  opacity: 0.3;
+}
+
+.cover__over-link:hover {
+  opacity: 0.8;
+}
