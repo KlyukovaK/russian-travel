@@ -1,24 +1,24 @@
 .lead__captio {
-	max-width: 160px;
-	font-family: 'Inter', Arial, sans-serif;
-	font-style: normal;
-	font-weight: 400;
-	font-size: 10px;
-	line-height: 1.4;
-	letter-spacing: 1.5px;
-	text-transform: uppercase;
-	padding: 0;
-	margin: 0;
+  max-width: 160px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  padding: 0;
+  margin: 0;
 }
 
 @media screen and (max-width: 928px) {
-	.lead__captio {
-		margin-left: 3.1%;
-	}
+  .lead__captio {
+    margin-left: 3.1%;
+  }
 }
 
 @media screen and (max-width: 320px) {
-	.lead__captio {
-		margin-left: 5%;
-	}
+  .lead__captio {
+    margin-left: 5%;
+  }
 }
