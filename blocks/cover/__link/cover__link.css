@@ -2,12 +2,26 @@
   width: 100%;
   display: flex;
   flex-direction: column;
-  justify-self: center;
-  position: relative;
+  justify-content: center;
   text-decoration: none;
   background: url(../../../images/PC/cover-transsib.jpg) center border-box;
   background-size: cover;
   padding: 20.69% 0 20.69% 0;
+}
+
+.cover__link:before {
+  content: '';
+  background-color: rgba(42, 44, 47, 0.3);
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  transition: .2s;
+}
+
+.cover__link:hover::before {
+  background-color: rgba(42, 44, 47, 0.8);
 }
 
 @media screen and (max-width: 1024px) {
